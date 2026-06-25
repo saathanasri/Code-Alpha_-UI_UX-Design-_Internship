@@ -14,6 +14,7 @@ Components:
    
 How to View the Design
 You can explore the full design project via this Figma link: 
+.CodeAlpha_Skincare wireframe[View in Figma](https://www.figma.com/design/W5YExwPdWlC1RosWPUpucp/skincare-wireframe?node-id=0-1&t=sB3UHOt4G8Thd4ks-1).
 .CodeAlpha_Skincare[View in Figma](https://www.figma.com/design/ubHFXN7VCGoAlzs7THxY7F/skincare?node-id=2-3&t=jjRDW9FAAjnEnfkT-1).
 
 
